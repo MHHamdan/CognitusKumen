@@ -22,3 +22,6 @@ congnituskumen/
 *.pkl
 *.h5
 __pycache__/
+.env
+venv
+__pycache__/
