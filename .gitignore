@@ -8,20 +8,4 @@ __pycache__/
 *.zip
 
 congnituskumen/
-congnituskumen/
-*.dylib
-*.bin
-*.pkl
-*.h5
-__pycache__/
-.env
-congnituskumen/
-.env
-*.dylib
-*.bin
-*.pkl
-*.h5
-__pycache__/
-.env
-venv
-__pycache__/
+
