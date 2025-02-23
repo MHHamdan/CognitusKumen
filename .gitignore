@@ -1,11 +1,5 @@
-env
-venv
-__pycache__/
-*.dylib
-*.bin
-*.pkl
-*.h5
-*.zip
+# Ignore the .env file
+.env
 
+# Ignore the congnituskumen directory
 congnituskumen/
-
