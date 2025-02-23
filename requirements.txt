@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+torch
+transformers
+pandas
+numpy
+requests
+dotenv
+pydantic
+diffusers
+torchvision
+faiss-cpu
+pytest
+gitpython
